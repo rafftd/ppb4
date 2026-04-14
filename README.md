@@ -1,6 +1,8 @@
 # flutter_application_4
 
-A new Flutter project.
+Nama : Rafif Thariq Dhiyaulhaqi
+
+Nrp : 5025231213
 
 ## Getting Started
 
